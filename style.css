@@ -1,0 +1,26 @@
+body {
+    background-color:#FAEBD7;
+    padding: 10px;
+    margin-bottom: -7px;
+
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #FDF5E6;
+    border: 2px double #DEB887;
+    padding: 20px;
+
+}
+main {
+    background-color: #FFF5EE;
+    border: 2px solid #D2B48C;
+    padding: 20px;
+}
+h1 {
+    color: #8B4513;
+    padding: 20px;
+}
